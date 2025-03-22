@@ -1,0 +1,8 @@
+baseURL = 'https://blog.ericthalakottur.com'
+languageCode = 'en-IN'
+title = "Eric Thalakottur's Blog"
+theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
